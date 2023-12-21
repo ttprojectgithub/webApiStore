@@ -1,4 +1,4 @@
-# Robots Store
+# Store
 ## Description and Architecture
 
 This is a robots shop site.
